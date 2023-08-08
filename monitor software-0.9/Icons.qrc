@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/title.jpg</file>
+        <file>icon/YS.jpg</file>
+        <file>icon/ying.png</file>
+        <file>icon/elua.GIF</file>
+        <file>icon/fupo.GIF</file>
+        <file>icon/ganyu.GIF</file>
+        <file>icon/zhongli.GIF</file>
+    </qresource>
+</RCC>
