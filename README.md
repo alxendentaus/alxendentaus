@@ -10,6 +10,14 @@ How to use this project  warning!!!This program only supports(Qt 5.14.2  MSVC201
 due to the dll files version
 --->
 1  download this project
+
+
+
 2  add dll and sys files to your building folder  like this    /building------/debug/
+
+
+
 3  dont move the lib files
+
+
 4  click on pro file
